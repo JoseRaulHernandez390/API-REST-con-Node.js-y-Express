@@ -6,7 +6,7 @@ Este proyecto consiste en una **API REST** creada con **Node.js** y **Express.js
 
 ---
 
-##Instrucciones
+## Instrucciones
 
 Asegurarse de tener instalados: Node y npm. Para verificar esto, se utilizan dos comandos:
 
